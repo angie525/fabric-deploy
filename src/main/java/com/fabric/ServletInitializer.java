@@ -1,4 +1,4 @@
-package com.jd.fabric;
+package com.fabric;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

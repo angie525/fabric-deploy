@@ -1,4 +1,4 @@
-package com.jd.fabric;
+package com.fabric;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

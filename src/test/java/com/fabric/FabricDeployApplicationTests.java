@@ -1,4 +1,4 @@
-package com.jd.fabric;
+package com.fabric;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
